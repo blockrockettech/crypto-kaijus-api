@@ -20,9 +20,11 @@ app.use(function (req, res, next) {
 app.options('*', cors());
 
 const token = require('./api/token');
+const opensea = require('./api/opensea');
 
 // TOKEN API
 app.use('/network/:network/token', token);
+app.use('/network/:network/os', opensea);
 
 // Expose Express API as a single Cloud Function:
 exports.api = functions.https.onRequest(app);

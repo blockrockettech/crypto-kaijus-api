@@ -64,5 +64,6 @@ const ethjsProvider = (network) => {
 
 module.exports = {
     ethjsProvider,
+    getTokenAddressForNetwork,
     connectToToken
 };

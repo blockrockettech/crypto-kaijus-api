@@ -2,3 +2,4 @@
 node_modules
 crypto-kaijus-api.iml
 firebase-debug.log
+/functions/.runtimeconfig.json
