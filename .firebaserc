@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "cryptokaiju-39233"
+    "cryptokaiju": "cryptokaiju-39233",
+    "cryptokaiju-beta": "cryptokaiju-beta"
   }
 }
