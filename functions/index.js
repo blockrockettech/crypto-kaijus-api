@@ -26,6 +26,9 @@ const opensea = require('./api/opensea');
 app.use('/network/:network/token', token);
 app.use('/network/:network/os', opensea);
 
-// Expose Express API as a single Cloud Function:
-exports.api = functions.https.onRequest(app);
+// Create "main" function to host all other top-level functions
+const main = express();
+main.use('/api', app);
 
+// Expose Express API as a single Cloud Function:
+exports.main = functions.https.onRequest(main);
