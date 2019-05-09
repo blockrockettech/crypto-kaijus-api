@@ -10,6 +10,8 @@ app.use(bodyParser.urlencoded({extended: false}));
 // app.use(require('./api/logger'));
 
 app.use(cors());
+app.options('*', cors({origin: false}));
+
 app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header('Access-Control-Allow-Methods', 'DELETE, PUT, GET, POST, OPTIONS');
