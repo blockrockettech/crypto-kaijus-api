@@ -23,8 +23,12 @@ app.options('*', cors());
 
 const token = require('./api/token');
 const opensea = require('./api/opensea');
+const search = require('./api/search');
+const homepage = require('./api/homepage');
 
 // TOKEN API
+app.use('/network/:network/homepage', homepage);
+app.use('/network/:network/search', search);
 app.use('/network/:network/token', token);
 app.use('/network/:network/os', opensea);
 

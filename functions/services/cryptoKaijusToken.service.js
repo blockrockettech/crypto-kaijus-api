@@ -48,6 +48,11 @@ class CryptoKaijusTokenService {
         return _.filter(results, (result) => result);
     }
 
+    async getTokenTotals(network) {
+        const contract = connectToToken(network);
+        return await this.tokenIdPointer(contract, network);
+    }
+
     ////////////
     // Mapper //
     ////////////
