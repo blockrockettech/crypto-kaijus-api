@@ -44,8 +44,7 @@ class CryptoKaijusTokenService {
             return this.mapTokenDetails(results, owner);
         });
 
-        const results = await Promise.all(allKaijus);
-        return _.filter(results, (result) => result);
+        return await Promise.all(allKaijus);
     }
 
     async getTokenTotals(network) {
@@ -58,16 +57,23 @@ class CryptoKaijusTokenService {
     ////////////
 
     async mapTokenDetails(results, owner) {
-        if (!results.tokenUri) {
+        if (_.size(results.tokenUri) <= 0) {
             return undefined;
         }
 
-        let data = {
+        let response = {
             ...results,
             owner
         };
-        data.ipfsData = (await axios.get(data.tokenUri)).data;
-        return data;
+        return axios.get(results.tokenUri)
+            .then((res) => {
+                response.ipfsData = res.data;
+                return response;
+            })
+            .catch((e) => {
+                // console.log('FAILED', e, response);
+                return undefined;
+            });
     }
 
     ///////////////

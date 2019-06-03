@@ -55,4 +55,24 @@ token.get('/all', async (req, res, next) => {
     }
 });
 
+token.get('/traits', async (req, res, next) => {
+    try {
+        const network = req.params.network;
+
+        const allKaijus = await cryptoKaijusTokenService.getAllTokens(network);
+
+        return res
+            .status(200)
+            .set('Cache-Control', 'public, max-age=86400')
+            .json({
+                colourStats: _.chain(allKaijus).filter((k) => k).map((k) => k.ipfsData.attributes.colour).countBy().value(),
+                classStats: _.chain(allKaijus).filter((k) => k).map((k) => k.ipfsData.attributes.class).countBy().value(),
+                genderStats: _.chain(allKaijus).filter((k) => k).map((k) => k.ipfsData.attributes.gender).countBy().value(),
+                skillStats: _.chain(allKaijus).filter((k) => k).map((k) => k.ipfsData.attributes.skill).countBy().value()
+            });
+    } catch (e) {
+        next(e);
+    }
+});
+
 module.exports = token;
