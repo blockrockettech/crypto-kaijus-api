@@ -17,4 +17,16 @@ openSea.get('/id/:tokenId', async (req, res, next) => {
     }
 });
 
+openSea.get('/search/kitty-data/:tokenId', async (req, res, next) => {
+    try {
+        const tokenId = req.params.tokenId;
+
+        const details = await openSeaApi.getCryptiKittyDetails(tokenId);
+
+        return res.status(200).json(details);
+    } catch (e) {
+        next(e);
+    }
+});
+
 module.exports = openSea;
