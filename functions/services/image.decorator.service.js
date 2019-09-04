@@ -126,7 +126,7 @@ class ImageDecoratorService {
 
         const rawData = await axios.get(rawSvgUrl);
 
-        const $ = cheerio.load(rawData.data, {xmlMode: true});
+        const $ = cheerio.load(rawData.data, {xmlMode: true, normalizeWhitespace: true,});
 
         $(`svg`).append(bandanaShape);
         $(`svg`).prepend(bandanaStyles);
