@@ -9,16 +9,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
 // app.use(require('./api/logger'));
 
-// app.use(cors({origin: false}));
-// app.options('*', cors({origin: false}));
-
-// app.use(function (req, res, next) {
-//     res.header('Access-Control-Allow-Origin', '*');
-//     res.header('Access-Control-Allow-Methods', 'DELETE, PUT, GET, POST, OPTIONS');
-//     res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-//     next();
-// });
-
 const CORS_WHITELIST = [
     'http://0.0.0.0:3000',
     'http://localhost:3000',
@@ -57,9 +47,6 @@ app.use('/image', image);
 // Create "main" function to host all other top-level functions
 const main = express();
 main.use('*', cors(corsOptions));
-
-// main.use(cors({origin: false}));
-// main.options('*', cors({origin: false}));
 
 main.use('/api', app);
 
