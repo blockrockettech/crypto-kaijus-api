@@ -4,6 +4,8 @@ const images = require('express').Router({mergeParams: true});
 
 const imageDecoratorService = require('../../services/image.decorator.service');
 
+const {convert} = require('convert-svg-to-png');
+
 images.get('/decorate/kitty/:kittyId/bandana', async (req, res, next) => {
     try {
         const {kittyId} = req.params;
