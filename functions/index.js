@@ -51,4 +51,10 @@ main.use('*', cors(corsOptions));
 main.use('/api', app);
 
 // Expose Express API as a single Cloud Function:
-exports.main = functions.https.onRequest(main);
+exports.main = functions
+    .runWith({
+        timeoutSeconds: 300,
+        memory: '1GB'
+    })
+    .https
+    .onRequest(main);

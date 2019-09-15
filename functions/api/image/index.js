@@ -12,7 +12,9 @@ images.get('/decorate/kitty/:kittyId/bandana', async (req, res, next) => {
 
         const png = await generatePng(kittyId);
 
-        res.setHeader('Content-Type', 'image/png');
+        res
+            .set('Cache-Control', 'public, max-age=864000') // 11 week - use http PURGE to clear
+            .setHeader('Content-Type', 'image/png');
 
         return res
             .status(200)
