@@ -132,7 +132,11 @@ async function submitTransactionsToNetwork(ipfsData) {
   const network = program.network;
   const httpProviderUrl = getHttpProviderUri(network);
 
-  const wallet = new HDWalletProvider(process.env.KNOWN_ORIGIN_MNEMONIC, httpProviderUrl, 0);
+  const mnemonic = network === 'mainnet'
+    ? process.env.KNOWN_ORIGIN_MNEMONIC_LIVE
+    : process.env.KNOWN_ORIGIN_MNEMONIC;
+
+  const wallet = new HDWalletProvider(mnemonic, httpProviderUrl, 0);
   const fromAccount = wallet.getAddress();
   console.log('fromAccount', fromAccount, wallet.wallets[fromAccount].getPrivateKeyString());
 
@@ -146,13 +150,13 @@ async function submitTransactionsToNetwork(ipfsData) {
     const {uploaded_ipfs_token_uri, attributes, recipient} = data;
     const {dob, nfc} = attributes;
     console.log(recipient, nfc, uploaded_ipfs_token_uri, moment(dob).unix());
-    // return kaijuContract.mintTo(getChecksumAddress(recipient), Eth.fromAscii(nfc), uploaded_ipfs_token_uri, dob,
-    //   {
-    //     from: fromAccount,
-    //     nonce: startingNonce++,
-    //     gas: gas,
-    //     gasPrice: gasPrice
-    //   });
+    return kaijuContract.mintTo(getChecksumAddress(recipient), Eth.fromAscii(nfc), uploaded_ipfs_token_uri, moment(dob).unix(),
+      {
+        from: fromAccount,
+        nonce: startingNonce++,
+        gas: gas,
+        gasPrice: gasPrice
+      });
   });
 
   Promise
