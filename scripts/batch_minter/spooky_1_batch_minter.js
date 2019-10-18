@@ -51,7 +51,8 @@ console.log(`gas=${gas} | gasPrice=${gasPrice}`);
   // Upload the data you have just `converted` to IPFS, storing the hash into a file //
   /////////////////////////////////////////////////////////////////////////////////////
   else if (program.mode === 'upload') {
-    await uploadToIpfs(require('./spooky_1_uploaded_ipfs_data'));
+    // N.B: change to `spooky_1_uploaded_ipfs_data.json` if this fails half way through
+    await uploadToIpfs(require('./spooky_1_ipfs_data'));
   }
   ////////////////////////////////////////////
   // This will fire in all txs - BE CAREFUL //
@@ -77,7 +78,7 @@ async function convertRawToIpfsPayload(data) {
       description: values['Description'],
       image: spookyIpfsImage,
       attributes: {
-        dob: moment().unix(),
+        dob: moment('2019-10-31').format('YYYY-MM-DD'), //1572480000, // Halloween 2019
         nfc: values['NFC ID'],
         colour: _.lowerCase(values['Colour']),
         gender: _.lowerCase(values['Gender']),
@@ -144,14 +145,14 @@ async function submitTransactionsToNetwork(ipfsData) {
   const txs = _.map(ipfsData, (data) => {
     const {uploaded_ipfs_token_uri, attributes, recipient} = data;
     const {dob, nfc} = attributes;
-    console.log(recipient, nfc, uploaded_ipfs_token_uri, dob);
-    return kaijuContract.mintTo(getChecksumAddress(recipient), Eth.fromAscii(nfc), uploaded_ipfs_token_uri, dob,
-      {
-        from: fromAccount,
-        nonce: startingNonce++,
-        gas: gas,
-        gasPrice: gasPrice
-      });
+    console.log(recipient, nfc, uploaded_ipfs_token_uri, moment(dob).unix());
+    // return kaijuContract.mintTo(getChecksumAddress(recipient), Eth.fromAscii(nfc), uploaded_ipfs_token_uri, dob,
+    //   {
+    //     from: fromAccount,
+    //     nonce: startingNonce++,
+    //     gas: gas,
+    //     gasPrice: gasPrice
+    //   });
   });
 
   Promise
