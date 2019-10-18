@@ -31,7 +31,6 @@ console.log(`gas=${gas} | gasPrice=${gasPrice}`);
     .option('-m, --mode <n>', 'Mode - either convert,upload,submit')
     .parse(process.argv);
 
-
   if (!program.network) {
     console.log(`Please specify -n mainnet,ropsten,rinkeby`);
     process.exit();
@@ -52,15 +51,16 @@ console.log(`gas=${gas} | gasPrice=${gasPrice}`);
   // Upload the data you have just `converted` to IPFS, storing the hash into a file //
   /////////////////////////////////////////////////////////////////////////////////////
   else if (program.mode === 'upload') {
-    await uploadToIpfs(require('./spooky_1_ipfs_data'));
+    await uploadToIpfs(require('./spooky_1_uploaded_ipfs_data'));
   }
   ////////////////////////////////////////////
   // This will fire in all txs - BE CAREFUL //
   ////////////////////////////////////////////
   else if (program.mode === 'submit') {
     await submitTransactionsToNetwork(require('./spooky_1_uploaded_ipfs_data.json'));
+  } else {
+    console.error(`ERROR - unknown option [${program.mode}]`);
   }
-
 
 })();
 
@@ -79,11 +79,11 @@ async function convertRawToIpfsPayload(data) {
       attributes: {
         dob: moment().unix(),
         nfc: values['NFC ID'],
-        colour: values['Colour'],
-        gender: values['Gender'],
-        batch: values['Batch'],
-        class: values['Class'],
-        skill: values['Skill']
+        colour: _.lowerCase(values['Colour']),
+        gender: _.lowerCase(values['Gender']),
+        batch: _.lowerCase(values['Batch']),
+        class: _.lowerCase(values['Class']),
+        skill: _.lowerCase(values['Skill'])
       },
       external_uri: 'https://cryptokaiju.io',
       recipient: values['Ethereum Address']
@@ -161,7 +161,7 @@ async function submitTransactionsToNetwork(ipfsData) {
       console.log(`
             Submitted transactions
               Transactions Submitted  
-                    - Total [${rawTransactions}]
+                    - Total [${rawTransactions.length}]
             `);
       console.log(rawTransactions);
       process.exit();
