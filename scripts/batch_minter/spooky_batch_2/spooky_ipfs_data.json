@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Matoatoa",
+    "description": "Ola Amigo, I am Matoatoa, I love to scare people and wish it was Halloween every day, I spend the whole of October decorating my house with seriously spooky decorations and then on Halloween night I prank call people and pretend I'm a ghost. The perfect Halloween was when I dressed up as a sparkling Batman, went to a party in a haunted waterpark and chased a ghost down a slide!",
+    "image": "https://ipfs.infura.io/ipfs/Qmc2Z4L7XHMhj557Eps7VutSufCupWF9Ejc3nGgVTdPgxT",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0445404AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "spooky"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x86CcD4dBC4614b05f539Ee7783c9f6F381D82e01"
+  },
+  {
+    "name": "Pecan",
+    "description": "Howdy, my name is Pecan, I enjoy scaring people and like to dress my pets up as gremlins. Thinking back, my best Halloween was when I dressed up as a very scary ghost then went to a spooky tea party. My favourite scary movie is 28 Days Later",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04483F4AE26280",
+      "colour": "glow in the dark",
+      "gender": "female",
+      "batch": "spooky",
+      "class": "unnerving",
+      "skill": "spooky"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x7205A1B9C5cf6494ba2CEb5adCca831C05536912"
+  },
+  {
+    "name": "Butterball",
+    "description": "Boo, I go by the name of Butterball, Frightening people is my favourite thing to do and Halloween is my favourite day of the year, I decorate my house, carve pumpkins and in the evening I love to visit Salem and pretend I'm a witch. The perfect Halloween was when I put a lot of effort into my outfit, dressing up as a magic Unicorn and snuck into the local zoo to kiss a crocodile as a dare! My favourite scary movie is Pitch Black",
+    "image": "https://ipfs.infura.io/ipfs/Qmc2Z4L7XHMhj557Eps7VutSufCupWF9Ejc3nGgVTdPgxT",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04503F4AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "bizarre",
+      "skill": "brave"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x3B3540c429e6ceC4F63d161AD2788a7d4a9a7B2B"
+  },
+  {
+    "name": "Altieri",
+    "description": "Boo, I'm Altieri, Halloween is my favourite time of the year, I enjoy being especially spooky, I bunk off work and love to watch scary movies. The greatest Halloween ever was when ate an entire pizza all to myself. My favourite scary movie is Poltergeist",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04583F4AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "frightening",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x2c2A05077BbD97E0131A3533b8D7c56cAbCa1A33"
+  },
+  {
+    "name": "Harvest",
+    "description": "Howdy, my name is Harvest, I love to prank call people and pretend I'm a ghost. Thinking back, my best Halloween was when I dressed up as a magic witch and found an old Jumanji board. My favourite scary movie is The Ring",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "045D414AE26280",
+      "colour": "glow in the dark",
+      "gender": "female",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "firework expert"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x265D5C742F216B1CEd833924Cf8D442c82342893"
+  },
+  {
+    "name": "Copper",
+    "description": "Boo, my name is Copper, I love to scare people and wish it was Halloween every day, I decorate my house with seriously spooky decorations and then at night time I dress my pets up as gremlins. Thinking back, my best Halloween was when I dressed up as a ghoulish Richard Gere then set off the biggest fireworks I've ever seen. My favourite scary movie is Let the Right One in",
+    "image": "https://ipfs.infura.io/ipfs/Qmc2Z4L7XHMhj557Eps7VutSufCupWF9Ejc3nGgVTdPgxT",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "045D3F4AE26280",
+      "colour": "glow in the dark",
+      "gender": "female",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x7543D829912554566e23aDfB37dC7a8724325F38"
+  },
+  {
+    "name": "Duskchild",
+    "description": "Hello, my name is Duskchild, I love to hang out in haunted mansions. My favourite scary movie is Hocus Pocus!",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04483E4AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "frightening",
+      "skill": "firework expert"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x265D5C742F216B1CEd833924Cf8D442c82342893"
+  },
+  {
+    "name": "Spooky Zilla",
+    "description": "Bonjour, I go by the name of Spooky Zilla, Halloween is my favourite day of the year, I take the whole day off work and then visit Salem and pretend I'm a witch. My fondest Halloween memory is when I put a lot of work into my costume and dressed up as a wizard and ate an entire bag of chocolate all to myself. My favourite scary movie is The Hills Have Eyes",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04423E4AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "ghostly",
+      "skill": "spooky"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xFd38F9510B94bF0340fbde90Fb084ff3056E7F6E"
+  },
+  {
+    "name": "Phantom Fangs",
+    "description": "Ola, my name is Phantom Fangs, I love to eat cheese before I go to bed. Thinking back, my best Halloween was when I dressed up as an angry Unicorn and went to a party in a spooky castle. My favourite scary movie is Coraline.",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04233E4AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "ghostly",
+      "skill": "firework expert"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x3B3540c429e6ceC4F63d161AD2788a7d4a9a7B2B"
+  },
+  {
+    "name": "Chatterer",
+    "description": "Bonjour, my name is Chatterer, Halloween is my favourite time of the year, I love to wear a cape and hang out at the local blood bank! The perfect Halloween was when I put a lot of work into my costume and dressed up as a zombie lizard person then went to a party in a spooky castle. I'm scared of my altcoin holdings.",
+    "image": "https://ipfs.infura.io/ipfs/Qmc2Z4L7XHMhj557Eps7VutSufCupWF9Ejc3nGgVTdPgxT",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04163F4AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "ghostly",
+      "skill": "firework expert"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x8b104344F397aFC33Ee55C743a0FbD7d956201cD"
+  },
+  {
+    "name": "Geist",
+    "description": "Ola, my name is Geist, I enjoy being spooky and love to dress my pets up as gremlins. I love scary numbers and my favourite is 666. This Halloween I am going to spend the evening watching scary movies!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0442444AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "rascal"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xeD607bA16f6aC5AFbff9ad9B8C02debA2207Cbc0"
+  },
+  {
+    "name": "Sharp Mouth",
+    "description": "Boo, I go by the name of Sharp Mouth, I enjoy scaring people and like to jump out of cupboards and scream \"Boo\" at people! Last Halloween I dressed up as a goulish banana and went to Nicolas Cage's house to hold his Razzie. Don’t tell anyone, but I despite trying to be frightening, I am actually scared of the dark!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "043C444AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "spooky"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xeFeD04b9C41827f103917503848d6e4395357Ebb"
+  },
+  {
+    "name": "Pumpkin Pedro",
+    "description": "Word. Call me Pumpkin Pedro. I live life on the edge and often don't brush my teeth on Tuesdays. On the weekend find me watching The Breakfast Club, epic!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04534FAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "bizarre",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x401cbf2194d35d078c0bcdae4bea42275483ab5f"
+  },
+  {
+    "name": "Wolfy",
+    "description": "Ola, I am Wolfy, Halloween is my favourite time of the year, I enjoy being especially spooky, I bunk off work and love to Prank call people and pretend I am calling from the future! The perfect Halloween was when I put a lot of effort into my outfit, dressing up as a zombie lizard person then went to a party in a spooky castle. I'm scared of my altcoin holdings.",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04454FAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "frightening",
+      "skill": "rascal"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x60D29311fdb1Bf848856cA5CaEdD199cFF4229A8"
+  },
+  {
+    "name": "Pinhead",
+    "description": "Ola, my name is Pinhead, Halloween is my favourite time of the year, I love to hang out in haunted mansions. My fondest Halloween memory is when I put a lot of work into my costume and dressed up as a angry Macbook and ate an entire bag of chocolate all to myself. My favourite scary movie is The Hills Have Eyes",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0413454AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "unnerving",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x374eb041b7610804064B6adc811739f0c9eB4321"
+  },
+  {
+    "name": "Draugur",
+    "description": "Boo, my name is Draugur, Halloween is my favourite time of the year, I enjoy being especially spooky and love to watch Jumanji, I wish there was a version I could play online. The greatest Halloween ever was when I put a lot of work into my costume, dressed up as a spooky Hulk Hogan and ate my weight in sugar. My favourite scary movie is Train to Busan",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0407464AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "unnerving",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xf70F772e6f452BF7f7C2645F4fbe0856c716aD51"
+  },
+  {
+    "name": "Fantasmal",
+    "description": "Boo, I'm Fantasmal, I love to watch scary movies. The perfect Halloween was when I found an old Jumanji board and played with it all night! My favourite scary movie is 28 Days Later",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04534BAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "bizarre",
+      "skill": "psychic"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xc1dCd2AFB1334fB9C30461A1fc8e822d6d9321f7"
+  },
+  {
+    "name": "Ghostface",
+    "description": "Boo, it's me, Ghostface, I love to scare people by dressing my cats up as goblins and walking them around the neighbourhood. The greatest Halloween ever was when I dressed up as a Keith Richards and went to a party in a haunted arcade with the cast of Lost . My favourite scary movie is Scream",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "044C4BAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "ghostly",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x600122A7D6ed9D1e20151a66016f466c6e01F90C"
+  },
+  {
+    "name": "Candi",
+    "description": "Hello, my name is Candi, I love to scare people and wish it was Halloween every day, I decorate my house with seriously spooky decorations and then at night time I visit Transylvania. My favourite scary movie is Jaws, I absolutely hate sharks!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "043F414AE2680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "cosplayer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x6b6c26a4Dac25B95F0eD0AF8b0AF8a7c8D232dff"
+  },
+  {
+    "name": "Buffy",
+    "description": "Hola, my name is Buffy, I pride myself on what a spooky, scary Kaiju I am and really love to wear a cape and hang out at the local blood bank! The best Halloween I've ever had is when I went to a party on the moon with the Winklevoss twins. My favourite scary movie is The Shining",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0403454AE26280",
+      "colour": "glow in the dark",
+      "gender": "female",
+      "batch": "spooky",
+      "class": "unnerving",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x6b6c26a4Dac25B95F0eD0AF8b0AF8a7c8D232dff"
+  },
+  {
+    "name": "Big Boo Boris",
+    "description": "Boo, my name is Boris, everyone is terrified of me because of my reckless ideas and constant tomfoolery. I've got an extra special present for everyone this Halloween. Trick or Treat? You'll be dining on dog meat by the 1st of November!",
+    "image": "https://ipfs.infura.io/ipfs/Qmc2Z4L7XHMhj557Eps7VutSufCupWF9Ejc3nGgVTdPgxT",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04074EAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "ghostly",
+      "skill": "tomfoolery"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x0f48669b1681d41357eac232f516b77d0c10f0f1"
+  },
+  {
+    "name": "Tamale",
+    "description": "Bonjour, I go by the name of Tamale, Halloween is my favourite holiday of the year, I love to sit alone in the dark, listening for ghosts.",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04464BAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "psychic"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xBe8F6309C504d4bcA414853F3d853750C39635a8"
+  },
+  {
+    "name": "Lecter",
+    "description": "Boo, I go by the name of Lecter, Halloween is my favourite holiday of the year, I love to wear a cape and hang out at the local blood bank! The greatest Halloween ever was when I went onboard a haunted cruiseliner for an amazing party!",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "043E4AAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "bizarre",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xBe8F6309C504d4bcA414853F3d853750C39635a8"
+  },
+  {
+    "name": "Monstro",
+    "description": "Bonjour, my name is Monstro, Halloween is my favourite holiday of the year, I love to dance the monster mash. My fondest Halloween memory is when I dressed up as a vampire and hung out at a blood bank! My favourite scary movie is The Blair Witch Project",
+    "image": "https://ipfs.infura.io/ipfs/Qmc2Z4L7XHMhj557Eps7VutSufCupWF9Ejc3nGgVTdPgxT",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0425434AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "hair raising",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xBe8F6309C504d4bcA414853F3d853750C39635a8"
+  },
+  {
+    "name": "Deimos",
+    "description": "Spooky greetings to you, I'm Deimos, Halloween is my favourite time of the year, I enjoy being especially spooky and love to hang out in haunted mansions. The greatest Halloween ever was when I put a lot of work into my costume and dressed up as a duck and spent all night partying in a pond. My favourite scary movie is The Silence of the Lambs",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04034AAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "frightening",
+      "skill": "scary movie expert"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xBe8F6309C504d4bcA414853F3d853750C39635a9"
+  }
+]

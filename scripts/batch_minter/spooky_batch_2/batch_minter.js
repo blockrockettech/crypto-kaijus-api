@@ -69,30 +69,30 @@ async function convertRawToIpfsPayload(data) {
 
   // create payload
   let rawIpfsData = data.map((values) => {
-    const spookyIpfsImage = spooky_ipfs_images[values['NFT Image']];
+    const spookyIpfsImage = spooky_ipfs_images[values['nft image']];
     if (!spookyIpfsImage) {
-      throw new Error(`Missing image [${values['NFT Image']}]`);
+      throw new Error(`Missing image [${values['nft image']}]`);
     }
     return {
-      name: values['Name'],
-      description: values['Description'],
+      name: values['name'],
+      description: values['description'],
       image: spookyIpfsImage,
       attributes: {
         dob: moment('2019-10-31').format('YYYY-MM-DD'), //1572480000, // Halloween 2019
-        nfc: values['NFC ID'],
-        colour: _.lowerCase(values['Colour']),
-        gender: _.lowerCase(values['Gender']),
-        batch: _.lowerCase(values['Batch']),
-        class: _.lowerCase(values['Class']),
-        skill: _.lowerCase(values['Skill'])
+        nfc: values['nfc'],
+        colour: _.lowerCase(values['colour']),
+        gender: _.lowerCase(values['gender']),
+        batch: _.lowerCase(values['batch']),
+        class: _.lowerCase(values['class']),
+        skill: _.lowerCase(values['skill'])
       },
       external_uri: 'https://cryptokaiju.io',
-      recipient: values['Ethereum Address']
+      recipient: values['recipient']
     };
   });
 
   // Update IPFS data
-  fs.writeFileSync('./scripts/batch_minter/spooky_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
+  fs.writeFileSync('./scripts/batch_minter/spooky_batch_2/spooky_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
 
   return rawIpfsData;
 }
@@ -117,7 +117,7 @@ async function uploadToIpfs(rawIpfsData) {
         console.log(response);
         data['uploaded_ipfs_token_uri'] = response[0].hash;
         console.log(`IPFS data saved [${response[0].hash}]`);
-        fs.writeFileSync('./scripts/batch_minter/spooky_uploaded_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
+        fs.writeFileSync('./scripts/batch_minter/spooky_batch_2/spooky_uploaded_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
       } else {
         console.log(`Skipping IPFS upload - found [${data['uploaded_ipfs_token_uri']}]`);
       }
