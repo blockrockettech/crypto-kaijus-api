@@ -17,8 +17,8 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 const IPFS = require('ipfs-http-client');
 const ipfs = IPFS('ipfs.infura.io', '5001', {protocol: 'https'});
 
-const {getTokenAddressForNetwork} = require('../../functions/services/web3/networks');
-const CryptoKaijuABI = require('../../functions/services/web3/crypto-kaijus.abi');
+const {getTokenAddressForNetwork} = require('../../../functions/services/web3/networks');
+const CryptoKaijuABI = require('../../../functions/services/web3/crypto-kaijus.abi');
 
 const {gas, gasPrice} = {gas: 4075039, gasPrice: 2000000000};
 
@@ -45,20 +45,20 @@ console.log(`gas=${gas} | gasPrice=${gasPrice}`);
   // Convert the raw CSV data into JSON ready for upload //
   /////////////////////////////////////////////////////////
   if (program.mode === 'convert') {
-    await convertRawToIpfsPayload(require('./spooky_1_batch'));
+    await convertRawToIpfsPayload(require('./spooky_batch'));
   }
   /////////////////////////////////////////////////////////////////////////////////////
   // Upload the data you have just `converted` to IPFS, storing the hash into a file //
   /////////////////////////////////////////////////////////////////////////////////////
   else if (program.mode === 'upload') {
-    // N.B: change to `spooky_1_uploaded_ipfs_data.json` if this fails half way through
-    await uploadToIpfs(require('./spooky_1_ipfs_data'));
+    // N.B: change to `spooky_uploaded_ipfs_data.json` if this fails half way through
+    await uploadToIpfs(require('./spooky_ipfs_data'));
   }
   ////////////////////////////////////////////
   // This will fire in all txs - BE CAREFUL //
   ////////////////////////////////////////////
   else if (program.mode === 'submit') {
-    await submitTransactionsToNetwork(require('./spooky_1_uploaded_ipfs_data.json'));
+    await submitTransactionsToNetwork(require('./spooky_uploaded_ipfs_data.json'));
   } else {
     console.error(`ERROR - unknown option [${program.mode}]`);
   }
@@ -92,7 +92,7 @@ async function convertRawToIpfsPayload(data) {
   });
 
   // Update IPFS data
-  fs.writeFileSync('./scripts/batch_minter/spooky_1_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
+  fs.writeFileSync('./scripts/batch_minter/spooky_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
 
   return rawIpfsData;
 }
@@ -117,7 +117,7 @@ async function uploadToIpfs(rawIpfsData) {
         console.log(response);
         data['uploaded_ipfs_token_uri'] = response[0].hash;
         console.log(`IPFS data saved [${response[0].hash}]`);
-        fs.writeFileSync('./scripts/batch_minter/spooky_1_uploaded_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
+        fs.writeFileSync('./scripts/batch_minter/spooky_uploaded_ipfs_data.json', JSON.stringify(rawIpfsData, null, 2));
       } else {
         console.log(`Skipping IPFS upload - found [${data['uploaded_ipfs_token_uri']}]`);
       }
