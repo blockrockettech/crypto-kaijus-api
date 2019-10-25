@@ -1,0 +1,30 @@
+{
+  "name": "crypto-kaijus-api",
+  "version": "1.0.0",
+  "description": "Simply API for http://cryptokaiju.io",
+  "author": "james@blockrocket.tech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockrockettech/crypto-kaijus-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blockrockettech/crypto-kaijus-api/issues"
+  },
+  "homepage": "https://github.com/blockrockettech/crypto-kaijus-api#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "commander": "^3.0.2",
+    "ethjs": "^0.4.0",
+    "ethjs-account": "^0.1.4",
+    "ethjs-provider-signer": "^0.1.4",
+    "ethjs-signer": "^0.1.1",
+    "ipfs-http-client": "^39.0.0",
+    "moment": "^2.24.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 5.0.0"
+  }
+}
