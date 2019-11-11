@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Gwoemul",
+    "description": "Boo, It's me, Gwoemul, I love to scare myself by playing video games alone in the dark. My favourite scary movie is Jaws, I am terrified of the big scary sharks!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "044E4DAAE25680",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "hair raising",
+      "skill": "spooky"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x7205A1B9C5cf6494ba2CEb5adCca831C05536912",
+    "uploaded_ipfs_token_uri": "QmTrG2GzMCpznzx6QibwUfdNV1bRK8yrWrnDVyCQHLVWWX"
+  },
+  {
+    "name": "Spogelse",
+    "description": "Bonjour, I go by the name of Spogelse, Halloween is my favourite time of the year, I enjoy being especially spooky and love to spend time staying in haunted hotels. The greatest Halloween ever was when I dressed up like a magic Unicorn and snuck into the local zoo to kiss a crocodile as a dare! My favourite scary movie is E.T",
+    "image": "https://ipfs.infura.io/ipfs/QmR1wZGqFBs3TWShH8Rcxb7f4NCd1dn8pJjPpAY2fviNJd",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "0444434AE26280",
+      "colour": "glow in the dark",
+      "gender": "male",
+      "batch": "spooky",
+      "class": "ghostly",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xaC2d53Bf7993aE9dE8B6B59838b3F5CEb448bE6B",
+    "uploaded_ipfs_token_uri": "QmRBhvak4Qq3B3h45ziHiCLpvN2esYSLoyCcGAqJfXC5Kb"
+  },
+  {
+    "name": "Sylvia Ganush",
+    "description": "Boo, I go by the name of Sylvia Ganush, Halloween is my favourite holiday of the year, I love to dance the monster mash. My favourite scary movie is Nightmare on Elm Street!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "04304CAAE25680",
+      "colour": "glow in the dark",
+      "gender": "female",
+      "batch": "spooky",
+      "class": "frightening",
+      "skill": "scary movie expert"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0x6442676793e9e7edf40d0662ead0647acacdc63b",
+    "uploaded_ipfs_token_uri": "QmWNUv3BH85AkvWdtMh7ozsf6JN3DYkXvTjpzPHCgkFLHn"
+  },
+  {
+    "name": "Autumn",
+    "description": "Spooky greetings to you, I'm Autumn, every Halloween I love to dress my pug dogs up as spiders and parade them around the park. My favourite scary movie is The Grinch!",
+    "image": "https://ipfs.infura.io/ipfs/QmTZCD2B1iaurKgHDZbxqpZGrVMVGYBr3cSxmsNmLEXNp1",
+    "attributes": {
+      "dob": "2019-10-31",
+      "nfc": "042A4CAAE25680",
+      "colour": "glow in the dark",
+      "gender": "female",
+      "batch": "spooky",
+      "class": "terrifying",
+      "skill": "trickster"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xec980df7cfd8eafcd59cdfedaf97d09a67ed2cd2",
+    "uploaded_ipfs_token_uri": "QmVeRAGWnF8fx6t5Sj82TvM56weS1DQBPtEEoMUMw8aqK3"
+  }
+]
