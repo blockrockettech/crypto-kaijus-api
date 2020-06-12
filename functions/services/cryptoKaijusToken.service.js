@@ -16,6 +16,12 @@ class CryptoKaijusTokenService {
     async getNfcDetails(network, nfcId) {
         const contract = connectToToken(network);
         const results = await this.nfcDetails(contract, nfcId);
+
+        // Should token zero have been returned, ensure its for the correct nfc id
+        if (results.tokenId === 0 && nfcId.toLowerCase() !== '042546AAE25680'.toLowerCase()) {
+            throw new Error('Invalid NFC ID');
+        }
+
         const owner = await this.ownerOf(contract, results.tokenId);
         return this.mapTokenDetails(results, owner);
     }
