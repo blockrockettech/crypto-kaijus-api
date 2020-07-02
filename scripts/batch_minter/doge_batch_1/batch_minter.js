@@ -152,14 +152,14 @@ async function submitTransactionsToNetwork(ipfsData) {
 
   const mnemonic = network === 'mainnet'
     ? process.env.KNOWN_ORIGIN_MNEMONIC_LIVE
-    : process.env.KNOWN_ORIGIN_MNEMONIC;
+    : process.env.PROTOTYPE_BR_KEY;
 
   const wallet = new HDWalletProvider(mnemonic, httpProviderUrl, 0);
   const fromAccount = wallet.getAddress();
   console.log('fromAccount', fromAccount, wallet.wallets[fromAccount].getPrivateKeyString());
 
   const provider = getSignerProvider(network, fromAccount, wallet.wallets[fromAccount].getPrivateKeyString());
-  console.log('provider', provider);
+  // console.log('provider', provider);
 
   const kaijuContract = connectToKaijuContract(network, provider);
   console.log('kaijuContract', kaijuContract);
