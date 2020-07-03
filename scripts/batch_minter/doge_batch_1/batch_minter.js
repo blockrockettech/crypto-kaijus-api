@@ -30,7 +30,7 @@ const ipfs = IPFS('ipfs.infura.io', '5001', {protocol: 'https'});
 const {getTokenAddressForNetwork} = require('../../../functions/services/web3/networks');
 const CryptoKaijuABI = require('../../../functions/services/web3/crypto-kaijus.abi');
 
-const {gas, gasPrice} = {gas: 4075039, gasPrice: 4000000000};
+const {gas, gasPrice} = {gas: 3075039, gasPrice: 50000000000};
 
 const FOLDER_NAME = 'doge_batch_1';
 
@@ -151,7 +151,7 @@ async function submitTransactionsToNetwork(ipfsData) {
   const httpProviderUrl = getHttpProviderUri(network);
 
   const mnemonic = network === 'mainnet'
-    ? process.env.KNOWN_ORIGIN_MNEMONIC_LIVE
+    ? process.env.CRYPTO_KAIJU_MINTER
     : process.env.PROTOTYPE_BR_KEY;
 
   const wallet = new HDWalletProvider(mnemonic, httpProviderUrl, 0);
@@ -162,7 +162,7 @@ async function submitTransactionsToNetwork(ipfsData) {
   // console.log('provider', provider);
 
   const kaijuContract = connectToKaijuContract(network, provider);
-  console.log('kaijuContract', kaijuContract);
+  // console.log('kaijuContract', kaijuContract);
 
   let startingNonce = await getAccountNonce(network, fromAccount);
   console.log('staringNonce', startingNonce);
