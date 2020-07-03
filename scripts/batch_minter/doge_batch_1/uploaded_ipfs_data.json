@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "Scrappy",
+    "description": "Much greetings! are those snacks in your pocket I can smell? My name is Scrappy, is it really not lunch time yet? I'm starving! I'm a really talented doggy, I can do tricks and love to bork. I run my own business testing people's beds for them to make sure they are comfortable, but in my spare time I love to watch old black and white movies and relax with my friends.",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0458394AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "entrepreneurial"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmTMefHSacRYkMKextsooSg78LkwRydbsRYGhN98Np35mo"
+  },
+  {
+    "name": "Scooby",
+    "description": "Such greetings to you! it is I, Scooby and I'm the big dog! My friends love me and tell me that I am a talented pooch. You should see how many snacks I can fit in my mouth at once. Seriously, let's try it now! I am obsessed with watching MASH and spend at least four hours a day watching re-runs of it. I also like to eat pizza and nap.",
+    "image": "https://ipfs.infura.io/ipfs/QmfL6iwP2PwE8YNqzASRYQTWnN54wXeJ3ousVhPpWBvpGX",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0455384AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmXKEQdsowAZNjZVdVrKEcxxUPHnXXuHiSwb97dU2XP7qg"
+  },
+  {
+    "name": "Brian",
+    "description": "Such greetings to you! I'm Brian I am constantly told that I'm a talented dog. You should see how many biscuits I can fit in my mouth at once. Seriously, let's try it now! I am obsessed with The Good Place and spend at least four hours a day watching re-runs of it. I also like to break dance and listen to my favourite podcasts.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "045A374AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmRrbA4YQwGKKiqdUW7zsde4PxkGQLF3zYSp7w3gnpKSbo"
+  },
+  {
+    "name": "Toto",
+    "description": "Yap Yap! lets get straight to the point as I've got some business to take care of, my name is Toto I am constantly told that I'm a very energetic dog. When I am not running round the park chasing sticks I like to chase wizards down yellow brick roads.",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0453374AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "speedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmcrKC9kQo8ZQBc8Dz18a3Jrt2FdQfNf3PLn2zHEonKKmi"
+  },
+  {
+    "name": "Goofy",
+    "description": "Bark bark my name is Goofy and I am a really fearsome doggo, you should hear my loud bork! I am obsessed with Daredevil and spend at least four hours a day watching re-runs of it. Once that is out of the way I go out into my garden and dance to The Baha Men for a few hours before going back to sleep. Woof!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "043A3A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmfJqqCo9fy5KDsfQvd5ERHgaro3gE9idsnpNXcr4HNpZB"
+  },
+  {
+    "name": "Pluto",
+    "description": "Wow do you want to know my name? I'll tell you if you give me some treats. Oh go on then, it's Pluto I work in a factory taste testing donuts, but when at home I like to go surfing at the beach near my house.",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04343A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "speedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmNisbuSc2RgZ7Pg5dMCcjEjqsNPmw3b1Gdg9xvVhEi8SD"
+  },
+  {
+    "name": "Gnipper",
+    "description": "Hey, it is so nice to meet you, I'm Gnipper and I'm a talented dog, you should see how many pieces of Pup-Peroni I can fit in my mouth at once. Seriously, let's try it now! After I've had a nice long snoozy I really like to watch Netflix for hours while eating pizza.",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "042D3A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmeWvU6ELq2DKN5ArPDvHb8Jjj87bihPSXE5K1M4ZdcT9q"
+  },
+  {
+    "name": "Gnasher",
+    "description": "Woof woof! bow down before me, for I am the mighty Gnasher and I am a really funny bundle of fluff. I am obsessed with the Expanse, I've read the books dozens of times and love to watch the TV show every night, I wish I could go to space one day!",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04263A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "brave"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmcXvvtYYnyxbBPf3WsBtKurNXWyemHYqpMfCa8qRX1zHj"
+  },
+  {
+    "name": "PaRapper",
+    "description": "Hello Fren lets get straight to the point as I've got some napping to do. My name is PaRapper and believe it or not, but I'm a very talented rapper. Want to buy my mix tape? I'm going to be the next big thing! When I'm not making beats and laying down a few bars, I like to sit in my garden and howl at the moon.",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "041F3A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmSxKK5GA16Rgih2cPpe3bmfUBAwEPfwyaCAxFtkH9SicQ"
+  },
+  {
+    "name": "Mr. Peanut Butter",
+    "description": "Henlo Fren I've got some cats to chase, so lets keep this short and sweet, my name is Mr. Peanut Butter and I am going to be your new best friend. I love to snooze and chase cats, bork bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04173B4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "charming"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmZie5K8nAfNKET4aL6dcumVkFGM8tPN7rK2yuvrefkLmd"
+  },
+  {
+    "name": "Barky",
+    "description": "Bork bork! I am the mighty Barky and I am going to be your new best friend. You'll love me, I am a master of tricks. I can sit, roll over, give paw and make food magically disappear. I run my own business testing people's beds for them to make sure they are comfortable, but in my spare time I love to read about conspiracy theories. Did you know that the moon is actually made of cheese?",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04113D4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "entrepreneurial"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmaGeHBcC42ZBzpa67teGPehK56efm5g7im44j3Vv6XDPT"
+  },
+  {
+    "name": "Barkley",
+    "description": "Much borks is it lunch time yet? I need a snack! My name is Barkley and I'm a good doggy. I am obsessed with Attack on Titan and spend at least four hours a day watching re-runs of it. I also like to listen to podcasts and eat spaghetti off the floor. Bork bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040B3D4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmU7hcNLQqfu4nhFchiaVw14xGutoiR36TZA3Vsa3JmuJt"
+  },
+  {
+    "name": "Huckleberry",
+    "description": "Such greetings to you! do you want to know my name? I'll tell you if you give me some treats. Oh go on then, it's Huckleberry I'm always told that I am a very talented dog. I want to enter X Factor to show the judges how well I can howl at the moon.  I love to snooze and when I am awake I love to water ski",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040A3C4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmVKQw9QeqNKvi3RtVUENhvy9s7nXgRFFJdm3n1j1bhjkZ"
+  },
+  {
+    "name": "Benji",
+    "description": "Wow I am Benji I am constantly told that I'm a good boy. I am love to run along the beach near my house and swim in the sea. Did you know that my best friend is a porpoise?",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04123B4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "lover"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmPsvryAK12mcVS6MnUD5i9c1L65WDf31qeG4yYStg2xLD"
+  },
+  {
+    "name": "Inky",
+    "description": "Hello bow down before me, for I am the mighty Inky I'm always told that I am a funny bundle of fluff. I love to play snooker and break dance to heavy metal",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040B3B4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmf9u3fULT5qwhfuA1T7Xk6CCzzEo3Sn5e2J8yMNknEWtW"
+  },
+  {
+    "name": "Jake",
+    "description": "Yap Yap! it is me, Jake is it really not lunch time yet? I'm starving! So yeah, I am a fun guy to be around! When I am not doing a snoozy I love to read about conspiracy theories. Did you know that Bitcoin was actually invented by a giant space toad?",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04053B4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmXgWDf7bg5XgEQxMdsgSGbxVuHiA39mTRhhnjnFMx9Fhi"
+  },
+  {
+    "name": "Puddy",
+    "description": "Hey, it is so nice to meet you, lets get straight to the point as I've got some napping to do. My name is Puddy and my friends all say that I am a funny bundle of fluff. I am obsessed with Dexter and spend at least four hours a day watching re-runs of it. I also like to read books and at the weekends I enjoy jumping in ponds. Bork bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04043A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "charming"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmSxh9nWjd6wBFMACSBJxa2ELvs9JwLvmQRHXDnqgQY9h4"
+  },
+  {
+    "name": "Percy",
+    "description": "Woof woof, my name is Percy, I love cuddling up on the sofa, sleeping on my owner's bed and eating everything I can find. My owners love me so much as I'm the best dog ever. In the evening I really love it when people play fight with me and make me do zoombies so I run around the room like an alien.",
+    "image": "https://ipfs.infura.io/ipfs/QmXETquoqUCeN5vyUvtmzPmSKKPVbJy2NQDKRfjABVVQUn",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040A3A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "retired"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmWLUe1xbqDpNPVcm3CoykKXQF8kvyARCkwkc1eJURdWHF"
+  },
+  {
+    "name": "Bolt",
+    "description": "Bow-wow is it lunch time yet? I need a snack! My name is Bolt and I'm constantly hungry! I am a really fearsome doggo, you should hear my loud bork! My favourite things to do are playing bass guitar and singing karaoke! My favourite song to sing is by the Baha Men.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04113A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmaTGPaSMbQWTNxTQt1FrSUFFg5C1sYaP4ghW1iSkSywHY"
+  },
+  {
+    "name": "Firulais",
+    "description": "Hello Fren do you want to know my name? I'll tell you if you give me some treats. Oh go on then, it's Firulais my friends all say that I am a talented dog. You should see how many biscuits I can fit in my mouth at once. Seriously, let's try it now! I love to play on the beach and swim in the sea. Woof woof!",
+    "image": "https://ipfs.infura.io/ipfs/QmfL6iwP2PwE8YNqzASRYQTWnN54wXeJ3ousVhPpWBvpGX",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04053E4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "collector"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmQroNMvuJTJ74h75zY4o3P4nRtFi1YSMfbjJwRm6gFjmF"
+  },
+  {
+    "name": "Bouncer",
+    "description": "Woof woof! my name is Bouncer is it really not dinner time yet? I'm starving! Have you ever seen a cooler dog wearing sunglasses, or on a skateboard? I bet you haven't!",
+    "image": "https://ipfs.infura.io/ipfs/Qmea53Cw9DWHFYAG2SJ4Q13YQ6yccfhstcoaY4Ue1HANiE",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "041F394AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "charming"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbZPa2j83HZQvoja62Zyj3dDkrkzipcwemeiM4DTpySnu"
+  },
+  {
+    "name": "Ren",
+    "description": "Borky borky! I hope you're having an absolutely brilliant day. I want to lick your face! Oh yes, introductions first, my name is Ren and I am the pizza boys worst nightmare. I love food so much and at the weekends I like to hang around outside buffet restaurants until someone gives me something tasty, nom nom nom!",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0426394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmYc1R1as1TKpG8U8h1NYAYGvTf6aWb64EPsJ2WrBhVRCw"
+  },
+  {
+    "name": "Rocky",
+    "description": "Pleased to meet you, I'm Rocky is it really not dinner time yet? I'm starving! So yeah, I am a magical pupper and I can see into the future, any minute now you're going to place a treat in my mouth!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "042C394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbUKWrHWZN3YqDV5zhheSGVyAHixRYyFidk5uFnPJdWgF"
+  },
+  {
+    "name": "Butch",
+    "description": "Hello, I am really pleased to have met you fren do you want to know my name? I'll tell you if you give me some treats. Oh go on then, it's Butch I'm always told that I am a majestic doggo. When I am not doing a snoozy I love to do karaoke!",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0433394AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmdKSLbm7ZtBPvLbMrvkXDNnAm4puy7V669iZABCKde7oE"
+  },
+  {
+    "name": "Charlie Dog",
+    "description": "Ola I'm Charlie Dog and I am a good dogey. I am obsessed with Twin Peaks and spend at least four hours a day watching re-runs of it. I also like to break dance and go water skiing",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0439394AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "retired"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmWFpE7fmHVxXzwrRFFQ7nwJ5SqvgrvaK7hXQnY1wB7D3d"
+  },
+  {
+    "name": "Santa's Little Helper",
+    "description": "Pleased to meet you, bow down before me, for I am the mighty Santa's Little Helper and I am a really talented dog as no matter how old I get, I don't seem to age! I love my family very much, now please, give me another snacky whacky. Bow wow wow!",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0440394AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbUpmLJXZpwNJmHHrVwBhqMYFL9rM1CawAHdYMdB4wntr"
+  },
+  {
+    "name": "Lassie",
+    "description": "Bow-wow I am the mighty Lassie and I am a very intelligent dog that likes to help humans and solve mysteries. What's that? I think I just heard something, maybe little Timmy fell into a well again.",
+    "image": "https://ipfs.infura.io/ipfs/QmYs6h8PkSWR9rQEbUCZDbtEmhzXafCeXjpL3pmkrHfdSA",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0449394AE26280",
+      "colour": "gold collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "witty"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbP7qLHGSZSuQZxaYK6c4DFaeYaWA7XCdEY6LTpFCSXpy"
+  },
+  {
+    "name": "Cliffy",
+    "description": "Borky borky! I hope you're having an absolutely brilliant day. I want to lick your face! Oh yes, introductions first, bow down before me, for I am the mighty Cliffy and I'm always being told that I am a good doggo. I am obsessed with Daredevil and spend at least four hours a day watching re-runs of it. Once that is out of the way I go out into my garden and dance to Deftones for a few hours before going back to bed.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0452394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmP5C8SvWKLJfGUhgd3YGizNrtG4xckD6kvGkSD9GJgYLH"
+  },
+  {
+    "name": "Kipper",
+    "description": "Henlo it is me, Kipper I am constantly told that I'm a the best boy! My favourite thing to do at the weekend is to go swimming in the sea. Bork bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "044D384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "charming"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmZ2nRj2EFuGWFNqsKGZU4814eEHmWdA2LiroiqwFGjoAn"
+  },
+  {
+    "name": "Blue",
+    "description": "Bork! bow down before me, for I am the mighty Blue and I am a talented dog, you should see how many biscuits I can fit in my mouth at once.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0447384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmV1GgBsxFyPpRnhTw7oc4uHDwYPr82DcuYxHrKuiFLmfq"
+  },
+  {
+    "name": "Isabelle",
+    "description": "Look at me wag my tail.. This is how excited I am to see you right now! are those treats in your pocket I can smell? My name is Isabelle I am constantly told that I'm a very talented dog as I help everyone who lives in my village. Bork bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0441384AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "gregarious"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmWXcpYtLHeiZbVeRaEHtGLsdGXw3DGCzHq6cCuYRvTTtV"
+  },
+  {
+    "name": "Hairy Maclary",
+    "description": "Hello, I am really pleased to have met you fren, bow down before me for I am the mighty Hairy Maclary and people love to tell me that I am a heckin good boy. I love to spend time in the kitchen cooking cakes and other tasty snacks.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "043B384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "charming"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbWymYaBbrKtNtxf5ZKSQkgdfbVTsGmjtwZUbWba57voq"
+  },
+  {
+    "name": "Akamaru",
+    "description": "Bork bork! is it lunch time yet? I need a snack! My name is Akamaru and I am a the best boy. You're going to love my daily routine! I am obsessed with Narcos and spend at least four hours a day watching re-runs of it. Once that is out of the way I spend another hour dancing round my house listening to 80s club classics and then I finish the day by rubbing my face all along the floor. Woof woof!",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0435384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmRLBkRcZhGj5bkdjErhKKeqkw6bxR66QpV6Vk2nXcgAZP"
+  },
+  {
+    "name": "Pippin",
+    "description": "Much greetings! is it lunch time yet? I need a snack! My name is Pippin and I am a really brilliant borker. I run my own business testing people's beds for them to make sure they are comfortable, but in my spare time I love to go roller-skating",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "042F384AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "entrepreneurial"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmVszzgbrDjx6fV63LuxjYMZes778YufN9FTU6MULvj96H"
+  },
+  {
+    "name": "The Littlest Hobo",
+    "description": "Bork bork! it is I, The Littlest Hobo is it really not lunch time yet? I'm starving! So yeah, I am a fun guy to be around! When I am not sleeping I like to eat pizza.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0429384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmSXFGZK5Cr3382jY19fy6cPM3dvbgTFdEEa4DeDSGGm43"
+  },
+  {
+    "name": "Cosmo the Space Doge",
+    "description": "Hello, I am really pleased to have met you fren lets get straight to the point as I've got some napping to do. My name is Cosmo the Space Doge I am constantly told that I'm the pizza boys worst nightmare. My favourite thing to do is to buy Bitcoin. I've been hodling since 2010 baby!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0423384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hodler"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmZNtdnVnkEz1apGCqoSXui788nhC7pXccZC2V6sHK1rWt"
+  },
+  {
+    "name": "Droopy McPoodle",
+    "description": "Bork! my name is Droopy Poodle I'm always told that I am a majestic doggo. my favourite thing to do at the weekend is to lick things and bark at the Amazon delivery guy.",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "041C384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "fighter"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmZQ3577HGkLqTuJcheNmFpmUofeTLPQPyeTroq7uFK5Lo"
+  },
+  {
+    "name": "Lady",
+    "description": "Much greetings! it is me, Lady I'm always told that I am a heckin good girl. After I've had a nice long snoozy I really like to eat spaghetti and then rub my face all over your carpet",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0416394AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmfGy27hQKVsRfCpiJtHsJQWvmWoP3sN45u66xXjXqphNU"
+  },
+  {
+    "name": "Tramp",
+    "description": "Woof it is me, Tramp and I am a really beautiful doggo who is admired by many. I love to eat spaghetti, chase dog wardens and play Animal Crossing for at least 15 hours a day.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0410394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "speedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmPiDCFPt81UU5aFjALLmHXnGJuJdP3qtWRnDyNL3ChudD"
+  },
+  {
+    "name": "Odie",
+    "description": "Woof woof, my name is Odie and I like to hang out with cats! Have you ever tried lasagne?",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0408394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmSkWPepbxgyxJAtrNmk1zxT6wfSq18WjJYpTgnT74SR6i"
+  },
+  {
+    "name": "Snoopy",
+    "description": "Hey hey, it's me Snoopy and everyone in my town loves me as I like to cause mischief all day long. I sleep outside in a really stylish dog house which I share with my roomy who is a bird.",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04023A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "comedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmat6zcJxpmHFb7PqZWhKKrzo8Cw4XgA471TQ2TuSmWtfk"
+  },
+  {
+    "name": "Baxter",
+    "description": "Bark! are those treats in your pocket I can smell? My name is Baxter and I once ate a whole wheel of cheese!",
+    "image": "https://ipfs.infura.io/ipfs/QmY4SB5qpdNu2gzvdFoaP77h9Dit3pRVuq5D4CPPvZgDuA",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040D384AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmeYAe6JjSvSC9rB6NMeNZ3gQiRhwfcB7R69n55nq3EQ1n"
+  },
+  {
+    "name": "Sniffy",
+    "description": "Nice to be acquainted, it is I, Sniffy and I'm a the pizza boys worst nightmare. I love to travel the world, exploring new exciting places but when I am at home and hanging out with my friends I like to watch football, my favourite team is Manchester United",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0414384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "lover"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmfQLaWWMeGs1KJaZ2ExGkFGZ3QmS8zN6wbDd7w71pAmj1"
+  },
+  {
+    "name": "Ruffles",
+    "description": "Hello it is me, Ruffles! I'm a hard working doggy and an economic adviser for the government having earned my degree in finance from Greendale Community College. In my spare time I enjoy burying bones in the garden and chasing cats. Woof woof!",
+    "image": "https://ipfs.infura.io/ipfs/QmX6iz6r16LCLwbV9qebSqFaH3aQ5UXNo5XryXwkhMNGyM",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0419374AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "ambitious"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmegNF4mTy5WPLyWBimHNiHeBmS7ucbSyLyEigTKqZNKYz"
+  },
+  {
+    "name": "Marbles",
+    "description": "Hello is it lunch time yet? I need a snack! My name is Marbles and I am a master of tricks. I can sit, roll over, give paw and make food magically disappear. Borking is my main hobby, woof woof!",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0456394AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmeyettuYpzJmcSXe3eoVRDkvoG8XzhC8dgimQ66W35gyV"
+  },
+  {
+    "name": "Spike",
+    "description": "Ola amigos, it is me Spike and I live in the Californian desert with my friend who is a cactus. My favourite things to do are hunt for food and play with balloons.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0453384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "scavenger"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmWXS7s8c2uDghGDGUVNbjVMusEx6zVf5bYJJgMpoXiRYA"
+  },
+  {
+    "name": "Missy",
+    "description": "Bork bork! lets get straight to the point as I've got some napping to do. My name is Missy and I am a really beautiful doggo who is admired by many. In my spare time I love to read Vogue and shop for clothes online. Woof woof!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "045A384AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "fashionable"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmW7H8JT6Y2pkf3sPd3WwRTqFpbix7D5ZUpYq7ikdDTnMu"
+  },
+  {
+    "name": "Fifi",
+    "description": "Bark bark I am the mighty Fifi I'm always told that I am a majestic beast. I am obsessed with Twin Peaks and spend at least four hours a day watching re-runs of it. I also like to break dance and do crosswords, but only on Wednesdays.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "045D384AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmVXPx9kUq7hyA1E2pCFpC4TN7m97XwbrPCAsMESNnD3L9"
+  },
+  {
+    "name": "Chayka",
+    "description": "Yap Yap! it is me, Chayka is it really not lunch time yet? I'm starving! So yeah, I am a really heckin good boy. I play Animal Crossing for at least 15 hours a day. When not on my Switch I like to listen to heavy metal",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "045F394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmd7zjvqAt1DRu1cfdzpMG8L5PeRxaQ4JicWScvrvUaQrR"
+  },
+  {
+    "name": "Kabosu",
+    "description": "Henlo do you want to know my name? I'll tell you if you give me some treats. Oh go on then, it's Kabosu my friends all say that I am a very talented dog. I can do tricks and love to bork. My favourite thing to do is to rap about how much I enjoy pizza",
+    "image": "https://ipfs.infura.io/ipfs/QmXETquoqUCeN5vyUvtmzPmSKKPVbJy2NQDKRfjABVVQUn",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0456374AE26280",
+      "colour": "gold collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmTtHVd6PYU8XNjWxxyP4jD6MCxctXW3DgDSbRs2iRnaGr"
+  },
+  {
+    "name": "Moon Moon",
+    "description": "Wow I'm Moon Moon and I am a good pupper. I am obsessed with Daredevil and spend at least four hours a day watching re-runs of it. Once that is out of the way I go out into my garden and practice my magic tricks.",
+    "image": "https://ipfs.infura.io/ipfs/QmPpoo7AKtrDXxGfiD7vh2K1JwzouevbDLWkf55afHGsXm",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04443A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "magic"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmYULQ6a48iyS4V7EG3hcGjYtHwyp77j1nKe1dYwm8YF5v"
+  },
+  {
+    "name": "Mutley",
+    "description": "Hello Fren I'm Mutley and my friends all say that I am a master of tricks. I can sit, roll over, give paw and make food magically disappear. I work in a factory taste testing donuts, but when at home I like to eat spaghetti hoops in the bath tub.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "043E3A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmQq9HmAAFFw7ooVmMfZZRi1R3J2QdTqT8qyPmHRGRNm5G"
+  },
+  {
+    "name": "Beethoven",
+    "description": "Bonjour do you want to know my name? I'll tell you if you give me some treats. Oh go on then, it's Beethoven and I am a musical dog that likes to play piano and solve crimes.",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04363A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbFCk1SpW5ggzBDjCVu1ygWbi9pcx9h6bkUqNz2B58GsP"
+  },
+  {
+    "name": "Cujo",
+    "description": "Bow-wow my name is Cujo is it really not lunch time yet? I'm starving! So yeah, I am a really special boi and when I grow up I want to marry Jenny Lewis",
+    "image": "https://ipfs.infura.io/ipfs/QmPpoo7AKtrDXxGfiD7vh2K1JwzouevbDLWkf55afHGsXm",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "042F3A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "lover"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmerzAFWtf6PA4ov18VYmSQ9ckeXwwxNXvQ4uh7eYhU9x4"
+  },
+  {
+    "name": "Krypto the Super Dog",
+    "description": "Bork! I've got some cats to chase, so lets keep this short and sweet, my name is Krypto the Super Dog my friends all say that I am a majestic doggo. I am obsessed with The Good Place and spend at least four hours a day watching re-runs of it. I also like to break dance and listen to music",
+    "image": "https://ipfs.infura.io/ipfs/Qmea53Cw9DWHFYAG2SJ4Q13YQ6yccfhstcoaY4Ue1HANiE",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04283A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmdhUeamjvGE1ApCAY7QkYHdMBzTspqkUe62FUhV3wgvBo"
+  },
+  {
+    "name": "Hector",
+    "description": "Bork bork! is it lunch time yet? I need a snack! My name is Hector I am constantly told that I'm a magical pupper as I can make donuts vanish!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "045C394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmXPeMBkDNNFTLPaFTNK58yNPFkLdqKTeY6bW4TqKrjGNE"
+  },
+  {
+    "name": "Rex",
+    "description": "Ola amigo, it is I, Rex, chaser of cats and lover of eating biscuits, woof, woof, bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmYs6h8PkSWR9rQEbUCZDbtEmhzXafCeXjpL3pmkrHfdSA",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "041D3B4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmfSxnuzoUR1uNhmpF1rx7DTK9FBfyvKGyJqnyiWWgjjta"
+  },
+  {
+    "name": "Balto",
+    "description": "Hey there, my name is Balto and I'm waiting for dinner time! I am a very energetic dog and I love to burn off energy by doing zoomies all around my garden. Bork bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04143B4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "speedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmNkMh8fbzpqf59bGyXa9pPJNk8iVLKy5e9AnpQDdWJD5M"
+  },
+  {
+    "name": "Peggie",
+    "description": "Many hellos you're not a delivery man are you? OK, well we can be frens! My name is Peggie my friends all say that I am a very special girl. I like to spend my spare time watching sheep dogs on YouTube.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040D3D4AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "lover"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmavc8woDLyEuA3QNnLktr3EPdRneNzB7NvV6ouVbAnQ5F"
+  },
+  {
+    "name": "Lucky",
+    "description": "Much greetings, my name is Lucky and though I was the runt of my litter I've grown into a heckin big boi! I love to chase balls around the park and chase cats! Bork bork bork!!",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04073D4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "speedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmf12fwZnxuYovfZZJSNnbSPa3oiTySBzb8pYKuzugfQh3"
+  },
+  {
+    "name": "Laika",
+    "description": "I am Laika and I spend my time campaigning for animal rights as all living beings deserve a happy, fulfilling life free of suffering.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04023D4AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "retired"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmSW48HT4LLuvRpXMo3qmDY9mf6in1LnEXBpFZ8AdPgcXq"
+  },
+  {
+    "name": "Pippo",
+    "description": "Bark! I am Pippo is it really not lunch time yet? I'm starving! I am a devious doggy and I spend my spare time practicing lock picking so I can one day break into the cupboard where my owner hides the good snacks!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04073C4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "scavenger"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmdzKRhuNxZmswe5ywysPnjxAQPnwx1MsnDD8NurYnKJ55"
+  },
+  {
+    "name": "Snoop Dog",
+    "description": "Yo its me, your boy, Snoop D-O-Double G n' I be a heckin chilled doggo. I love to hang out in my dog house, spitting rhymes and smoking blunts.",
+    "image": "https://ipfs.infura.io/ipfs/QmXETquoqUCeN5vyUvtmzPmSKKPVbJy2NQDKRfjABVVQUn",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040F3B4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmWtnbLq5tuq91y4P5gteyZPKMSMrXJB3GxuhHKfeSrAFM"
+  },
+  {
+    "name": "Bones",
+    "description": "Bork bork bork, it's me Bones! I am a big bundle of love and your new best friend. I hate baseball but love to go to as many games as I can, just for the taste of those delicious hot dogs!",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04073B4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmPxCmFsBUEChmm4tf7aU4QMHyo2mn8cP16DTCiaCkaWMW"
+  },
+  {
+    "name": "Barker",
+    "description": "Barker by name, barker by nature! I love to spend my days sat in my window shouting at everyone who walks past, especially the Amazon delivery guy or the pizza boy!",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04083A4AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmTE9xGjy58oovbrBQAZmHDp3BpEM2s75a6HD6q86YPK7M"
+  },
+  {
+    "name": "Fido",
+    "description": "Yap Yap! I am Fido my friends all say that I am a good dogey. Borking is my main hobby. When I am not doing that I love to listen to music.",
+    "image": "https://ipfs.infura.io/ipfs/Qmc7VYYVMAoTdoBEDsfDfXFZsZXWxjVDkuU8nLWtKYz4Vr",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "040F3A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmdQHq47YWtWiMQ34m9iDL2EAtETrnm8JN4qBjaKddcG6e"
+  },
+  {
+    "name": "Bingo",
+    "description": "I live on a farm and my name-o is Bingo which is spelt B-I-N-G-O. I love to run around fields, rolling in corn and barking at the birds to scare them away. In the evening I love to lie on the sofa and have my tummy tickled.",
+    "image": "https://ipfs.infura.io/ipfs/Qmea53Cw9DWHFYAG2SJ4Q13YQ6yccfhstcoaY4Ue1HANiE",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "04163A4AE26280",
+      "colour": "gold collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "charming"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmb4q3UijPuZ1j83gzUgSZLJ1W8BFcC6J3UZrjT1XcPrZy"
+  },
+  {
+    "name": "Bertie",
+    "description": "My name Is Bertie and I am a loving and intelligent doggy who is loved by everyone that meets me, I can do so many tricks including singing a long to a recorder, you should hear my beautiful singing voice, Awoooo!",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "041C394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "retired"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmWNahkBk2yTpqfxVKW5JRaL7kijiwfWxthwBvxJDieMdj"
+  },
+  {
+    "name": "Hattie",
+    "description": "Bork bork bork, I am Hattie, a crazy girl who loves to do zoomies and roll around on the floor.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0423394AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "speedy"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmfEf2BqjQyc5qrNTiHX37JcMeMMQ6eavxmX4WLj26kj2v"
+  },
+  {
+    "name": "Ernie",
+    "description": "I am Ernie and I am a very energetic dog, I love to go to BBQ's, eat all the sausages and then break into a strangers house to sleep on their bed.",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "042A394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmeeyGE3fH85dgvNmJDPeFN6GZtyWJqxftc25fp1wRTAMi"
+  },
+  {
+    "name": "Ted",
+    "description": "Henlo Fren it is me, Ted is it really not dinner time yet? I'm starving! So yeah, I am a good dogey. I love to walk in the park and chase cats.",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0431394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmPXEPSemALBRgxRipx1JNWaduAfkG9WRn3mpNPH811rs4"
+  },
+  {
+    "name": "Dusty",
+    "description": "Hey there, my name is Dusty and I have a beautiful singing voice, you should hear me howl at the moon, Awoooooo!",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0437394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "musician"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmXCY9zFkD2iRGuyaymWbxHxUAGVqe3XKcgbFfacwyVLXQ"
+  },
+  {
+    "name": "Walty Bear",
+    "description": "Hello are those treats in your pocket I can smell? My name is Walty Bear and I'm a majestic doggo. I am obsessed with watching Marvel movies and spend hours a day re-watching them, once that is out of the way I go out into my garden and dance for a few hours.",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "043E394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmQSdBiJ2uqorU58jRKrVv84gmdCYUdreTxmLBdVawd23V"
+  },
+  {
+    "name": "Buddy",
+    "description": "Wow it is me, Buddy I am constantly told that I'm the best boy. I am obsessed with Twin Peaks and spend at least four hours a day watching re-runs of it. I also like to break dance and go roller-skating",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0444394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "dancer"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmSB3t4YwGibmChTWnDWJLqLXUKiVoFnZPWs64AgcZfYKQ"
+  },
+  {
+    "name": "Bear",
+    "description": "Much borks it is me, Bear and I'm a brilliant borker. I run my own business where I chase cats out of people's gardens, but when I am not working hard doing that I love to organise my Pokémon cards into alphabetical order",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0450394AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "entrepreneurial"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmRpkNZa9iAyCousGaYM62XmK2we1bCJL8T6g9c3w5Rqcd"
+  },
+  {
+    "name": "Tucker",
+    "description": "Look at me wag my tail.. This is how excited I am to see you right now! I've got some cats to chase, so lets keep this short and sweet, my name is Tucker is it really not dinner time yet? I'm starving! So yeah, I am a funny bundle of fluff. I work in a factory taste testing donuts. Bork!",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "044F384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "hungry"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmbSTjd1XRFzNjdPtSLxrVveTABd5RxjUVwm9EjXrAi8Sf"
+  },
+  {
+    "name": "Gretchen",
+    "description": "Hallo, are those treats in your pocket I can smell? My name is Gretchen my friends all say that I am a heckin good girl. I love to play in caves and read about conspiracy theories. Did you know that this world was actually only created in 1986 and was the result of an accident in another timeline?",
+    "image": "https://ipfs.infura.io/ipfs/QmXcTt3mMnE1rcoV649fNuNAwME7tFdMMnV1SHAe3eMFMY",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0449384AE26280",
+      "colour": "red collar",
+      "gender": "female",
+      "batch": "dogejira",
+      "skill": "magic"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmQMtvuGknuLjPcxZucRATDa2BKBCDqxvLnLc5HHW9kuNz"
+  },
+  {
+    "name": "Sammy",
+    "description": "Hello I'm Sammy and I am a really heckin good boi. I love to travel the world, exploring new exciting places but when I am at home and hanging out with my friends I like to watch football, my favourite team is Stockport County.",
+    "image": "https://ipfs.infura.io/ipfs/QmTBbUnUXu5fDQXV6aQJp3QyMg6DsnsHRuRTio32iW3eUB",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "0443384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "inquisitive"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "QmRjHcNfQP4jBY5eTg6gTuU799fDEDD4t9A7bsTfttErWi"
+  },
+  {
+    "name": "Buster",
+    "description": "Yap Yap! lets get straight to the point as I've got some napping to do. My name is Buster and my Mamma says that I am a special boy. I love to swim in the sea but am scared of seals!",
+    "image": "https://ipfs.infura.io/ipfs/QmbjqpUK3PoFap6hxTekToKkrKb7XQHD1FG2iJZBia4cDW",
+    "attributes": {
+      "dob": "2020-07-02",
+      "nfc": "043D384AE26280",
+      "colour": "red collar",
+      "gender": "male",
+      "batch": "dogejira",
+      "skill": "lover"
+    },
+    "external_uri": "https://cryptokaiju.io",
+    "recipient": "0xCa00141010B1E63b7a2374C7dF17c81253282C5E",
+    "uploaded_ipfs_token_uri": "Qmb9XEiNFUGFpmKzmrwxpvQUGWaocn1JzFZ3tnLT5G7iQW"
+  }
+]
