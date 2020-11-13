@@ -30,7 +30,7 @@ const ipfs = IPFS('ipfs.infura.io', '5001', {protocol: 'https'});
 const {getTokenAddressForNetwork} = require('../../../functions/services/web3/networks');
 const CryptoKaijuABI = require('../../../functions/services/web3/crypto-kaijus.abi');
 
-const {gas, gasPrice} = {gas: 3075039, gasPrice: 25000000000};
+const {gas, gasPrice} = {gas: 3075039, gasPrice: 30000000000};
 
 const FOLDER_NAME = 'doge_batch_2';
 
